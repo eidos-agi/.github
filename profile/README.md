@@ -2,23 +2,23 @@
   <strong>Software for agents. Governance for reality.</strong>
 </p>
 
-We're a stealth group of engineers, AI researchers, and cybersecurity experts. Some of us have day jobs. We work under this banner because it gives us the freedom to build what industry won't.
+Amazon didn't create the internet. It created the trust infrastructure — reviews, ratings, guaranteed delivery — that made people willing to buy from strangers online. We're doing the same thing for AI agents.
 
-Our toolkit empowers you to leverage existing AI to go further than it otherwise could — governance, decisions, execution, and shipping standards that make agents reliable enough to trust with real work. Not new models. Not wrappers. The infrastructure that turns today's AI into tomorrow's workforce.
+We don't build LLMs. We build the governance, decisions, and execution standards that make them trustworthy enough to hand real work.
 
-**9 packages on [PyPI](https://pypi.org/). All open source. All [MIT](https://opensource.org/licenses/MIT).**
+**9 packages on [PyPI](https://pypi.org/user/eidos-agi/). All open source. All [MIT](https://opensource.org/licenses/MIT).**
 
 ---
 
 ### The Trilogy
 
-Agents need governance, evidence-based decisions, and execution tracking. The trilogy provides all three.
+Agents need governance before they act, evidence before they decide, and tracking after they execute. Three tools enforce that contract.
 
 | | Tool | What | Install |
 |-|------|------|---------|
-| 📜 | **[visionlog](https://github.com/eidos-agi/visionlog.md)** | Governance — vision, goals, guardrails, ADRs | `pip install visionlog-md` |
-| 🔬 | **[research.md](https://github.com/eidos-agi/research.md)** | Decisions — evidence-graded, phase-gated, peer-reviewed | `pip install research-md` |
-| ⚡ | **[ike.md](https://github.com/eidos-agi/ike.md)** | Execution — tasks, milestones, Definition of Done | `pip install ike-md` |
+| I | **[visionlog](https://github.com/eidos-agi/visionlog.md)** | Governance — vision, goals, guardrails, ADRs | `pip install visionlog-md` |
+| II | **[research.md](https://github.com/eidos-agi/research.md)** | Decisions — evidence-graded, phase-gated, peer-reviewed | `pip install research-md` |
+| III | **[ike.md](https://github.com/eidos-agi/ike.md)** | Execution — tasks, milestones, Definition of Done | `pip install ike-md` |
 
 ### MCP Servers
 
@@ -37,8 +37,8 @@ Agents need governance, evidence-based decisions, and execution tracking. The tr
 
 ---
 
-### Join Us
+### Built in the open
 
-We're looking for engineers, researchers, and security people who want to build the infrastructure layer for agentic software. You don't need to quit your job. You don't need permission. If you see the gap between where AI is and where it could be with proper tooling — and you want to close it — reach out.
+If the tools that govern your agents are closed, you're trusting the vendor. If they're open, you're trusting the code. We think that's a better deal. The core is MIT-licensed and always will be.
 
-**daniel@eidosagi.com** · [eidosagi.com](https://eidosagi.com)
+[eidosagi.com](https://eidosagi.com)

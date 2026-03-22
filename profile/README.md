@@ -2,7 +2,9 @@
   <strong>Software for agents. Governance for reality.</strong>
 </p>
 
-We build agentic-first software — open-source tools designed for how AI agents actually operate. Not chatbots. Not wrappers. Infrastructure that makes agents legible, accountable, and shippable.
+We're a stealth group of engineers, AI researchers, and cybersecurity experts building agentic-first software — open-source tools designed for how AI agents actually operate.
+
+Some of us have day jobs. We work under this banner because it gives us the freedom to build what industry won't: infrastructure that makes agents legible, accountable, and shippable. Not chatbots. Not wrappers. The real plumbing.
 
 **9 packages on [PyPI](https://pypi.org/). All open source. All [MIT](https://opensource.org/licenses/MIT).**
 

@@ -37,6 +37,8 @@ Agents need governance, evidence-based decisions, and execution tracking. The tr
 
 ---
 
-<p align="center">
-  <a href="https://eidosagi.com">eidosagi.com</a>
-</p>
+### Join Us
+
+We're looking for engineers, researchers, and security people who want to build the infrastructure layer for agentic software. You don't need to quit your job. You don't need permission. If you see the gap between where AI is and where it could be with proper tooling — and you want to close it — reach out.
+
+**daniel@eidosagi.com** · [eidosagi.com](https://eidosagi.com)
